@@ -1,3 +1,4 @@
 #!/bin/sh
+Hello How are you 
 echo "My name is Bindu"
 
